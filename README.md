@@ -5,17 +5,17 @@ Clonar repositorio
 Instalar las dependencias (npm install)
 Inicializar el proyecto (node index.mjs)
 
-Obtener todos los contactos:
+Obtener todos los productos:
 /api/products
 
-Obtener contacto por id:
+Obtener producto por id:
 /api/products/:id
 
-Agregar contacto:
+Agregar producto:
 /api/products
 
-Editar contacto:
+Editar producto:
 /api/products/:id
 
-Eliminar contacto:
+Eliminar producto:
 /api/products/:id
