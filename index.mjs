@@ -5,7 +5,7 @@ import cors from "cors";
 const app = express();
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://dogwoah-servidor-production.up.railway.app",
+  "https://loja-virtual-3a05e.web.app/admin/productlist",
 ];
 
 app.use(json());
