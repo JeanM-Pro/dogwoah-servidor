@@ -5,7 +5,7 @@ import cors from "cors";
 const app = express();
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://loja-virtual-3a05e.web.app/admin/productlist",
+  "https://loja-virtual-3a05e.web.app",
 ];
 
 app.use(json());
